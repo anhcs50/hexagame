@@ -377,6 +377,7 @@ function showHelp() {
 
 (function(){
     	var script = document.createElement('script');
-	script.src = 'http://hextris.io/a.js';
+	// script.src = 'http://hextris.io/a.js';
+	script.src = 'https://anhcs50.github.io/hexagame/a.js';
 	document.head.appendChild(script);
 })()
